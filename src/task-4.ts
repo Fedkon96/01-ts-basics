@@ -6,5 +6,5 @@ function printUserInfo(name: string, age: number, email?: string): void {
   }
 }
 
-// printUserInfo("Alice", 30);
-// printUserInfo("Bob", 25, "bob@mail.com");
+printUserInfo("Alice", 30);
+printUserInfo("Bob", 25, "bob@mail.com");

@@ -6,4 +6,4 @@ getFirstElement<number>([1, 2, 3]); // 1
 getFirstElement<string>(["a", "b", "c"]); // "a"
 getFirstElement<boolean>([true, false, true]); // true
 
-// console.log(getFirstElement<boolean>([true, false, true]));
+console.log(getFirstElement<boolean>([true, false, true]));
